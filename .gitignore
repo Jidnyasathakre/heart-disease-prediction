@@ -1,0 +1,4 @@
+heart_disease/
+venv/
+__pycache__/
+*.pyc
