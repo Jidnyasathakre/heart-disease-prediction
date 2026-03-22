@@ -64,7 +64,7 @@ https://huggingface.co/spaces/Jidnyasa11/Heart_Disease
 
 ---
 
-## 📸 App Preview
+## App Preview
 
 ![App Screenshot](result.png)
 
